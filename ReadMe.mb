@@ -1,0 +1,14 @@
+Feito por: G. Hikelmi
+Created by: G. Hikelmi
+
+Como Jogar:
+  - Modo P1 vs P2: O primeiro a jogar começa com '0', o segundo começa com 'X';
+  - Digite o caractere da casa para marcar, uma vez para cada jogador;
+  - Ganha aquele que conseguir fazer uma reta vertical/horizontal/diagonal de 3 símbolos;
+  - Ao finalizar a jogada, digitar 0 para sair, qualquer outro valor para resetar o game;
+
+How to play:
+  - Mode P1 vs P2: The first player starts with '0', the second player with 'X';
+  - Type the character of house to mark, one round per player;
+  - To win, make a straight vertical/horizontal/diagonal with 3 symbols;
+  - After beat the game, press 0 to quit, any other vallue for reset the game;
